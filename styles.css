@@ -1,0 +1,43 @@
+/* TAG SELECTORS */
+
+h1 {
+  color: red;
+  font-size: 200px;
+}
+
+p {
+  font-style: italic;
+}
+
+/* img {
+  background-color: tan;
+} */
+
+/* CLASS SELECTORS */
+
+.bacon {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: red;
+}
+
+.cat {
+  background-color: blue;
+  /* height: 320px;
+  width: 320px; */
+}
+
+/* ID SELECTORS */
+
+#purple {
+  background-color: purple;
+}
+
+#loud {
+  background-color: black;
+  color: yellow;
+  font-style: normal;
+  font-weight: bold;
+}
